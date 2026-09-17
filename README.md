@@ -31,7 +31,7 @@ The analysis joins across 9 relational tables using SQL (orders, order items, se
 ## 🖼️ Screenshot
 
 ### Review Score: Late vs On-Time Delivery
-![Review Score Chart](./review_score_chart.png)
+![Review Score Chart](./review_score_chart1.png)
 
 ---
 
